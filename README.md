@@ -1,0 +1,4 @@
+emacs
+=====
+
+Versioned emacs files
