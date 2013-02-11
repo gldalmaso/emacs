@@ -1,0 +1,64 @@
+--donadel 438 / 1
+--mdpplanta 4268 / 4703
+--pepsico 2356 / 2355
+--desenvolvimento 2057 / 5
+--dalmaso 4777 / 1
+--minoru 4149 / 4119
+--lucatoc 118274 / 88
+--granof 3642 / 62
+--teck 2765 / 2355
+--trebes4 3706 / 272
+--lhenrique 3771 / 3770
+--denise 1836 / 761
+--3g 2243 / 2244
+--janainac 4018 / 1656
+--hippos 4209 / 3660
+--karenar 4632 / 4322
+--perfil Administrador 46
+--perfil Manutenção Hippo 175
+--perfil painel sakata 173
+--perfil pepsico 117
+--perfil industria pepsico 157
+--perfil Administrador SIP 17
+--perfil CDG - Genética 144
+--perfil Controle Caixa 108
+select * from sca.en_pessoa where nome_usuario = 'cantu';
+select * from sca.en_pessoa where nome ilike '%fatima regina%';
+select * from sca.en_pessoa where id_pessoa = 4119;
+select * from sca.en_pessoa where id_pessoa_pai = 741 and ativo = true;
+select * from sca.en_pessoa where id_pessoa = 1;
+
+select id_pessoa, per.id_perfil, nome, item_menu.* from sca.re_pessoa_perfil re 
+left join sca.en_perfil per on per.id_perfil=re.id_perfil
+left join sca.re_perfil_item_menu repitm on repitm.id_perfil = per.id_perfil 
+left join sca.en_item_menu item_menu on item_menu.id_item_menu = repitm.id_item_menu
+where id_pessoa = 4786;
+
+insert into sca.re_pessoa_perfil (id_pessoa, id_perfil) values(4777,199);
+insert into sca.re_pessoa_sistema(id_pessoa, id_sistema) values(4777,41);
+
+select * from sca.en_item_menu order by id_item_menu desc;
+
+select * from sca.en_item_menu where id_sistema = 6 order by id_item_menu desc;
+select * from sca.en_item_menu where action_listener ilike '%forn%';
+insert into sca.en_item_menu (id_item_menu, id_item_menu_pai, ordenacao, texto, action_listener, id_sistema, texto_i18n) values(nextval('sca.seq_en_item_menu'), 249, 109, 
+'Mensagens', '#{telaMensagens.list}', 5, null);
+
+insert into sca.re_perfil_item_menu values(17, 551, null, null, false, false, false, false);
+delete from sca.re_perfil_item_menu where id_item_menu = 446;
+update sca.re_perfil_item_menu set "create" = true, "read" = true, "update" = true, "delete" = true where id_perfil = 157;
+
+select * from sca.en_perfil where id_sistema = 5;
+
+select per.id_perfil, per.nome, pes.id_pessoa, pes.nome_usuario, pes.id_pessoa_pai 
+from sca.en_perfil per
+left join sca.re_pessoa_perfil re on re.id_perfil = per.id_perfil
+left join sca.en_pessoa pes on pes.id_pessoa = re.id_pessoa
+where per.id_perfil in (102);
+
+select * 
+from sca.re_perfil_item_menu re
+left join sca.en_perfil perfil on perfil.id_perfil = re.id_perfil
+where id_item_menu in (326);
+
+select * from sca.en_sistema;

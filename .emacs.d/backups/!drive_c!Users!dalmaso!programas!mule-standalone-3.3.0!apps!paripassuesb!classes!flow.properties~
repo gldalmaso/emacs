@@ -1,0 +1,43 @@
+#environment: prod para producao, dev para desenvolvimento
+env=dev
+
+#debug flag
+debug.flag=true
+
+#domains
+sca_services.domain=www.paripassu.com.br
+sca_services.domain.dev=192.168.0.11
+rastreador_web.domain=www.paripassu.com.br
+rastreador_web.domain.dev=192.168.0.11
+
+
+#ports
+sca_services.port=80
+sca_services.port.dev=8080
+rastreador_web.port=80
+rastreador_web.port.dev=8080
+
+#services
+sca_services.autenticar=sca-services/rest/login/autenticar
+sca_services.autenticar.get.pai=sca-services/rest/login/autenticarGetIdPai
+rastreador_web.product_type.all=rastreador-web/rest/productType/all
+rastreador_web.recipe.all=rastreador-web/rest/recipe/all
+rastreador_web.package.all=rastreador-web/rest/package/all
+rastreador_web.shipping.insert=rastreador-web/rest/tracking/shipping/insert
+rastreador_web.processing.insert=rastreador-web/rest/tracking/processing/insert
+rastreador_web.tracking_code.request=rastreador-web/rest/trackingCode/request/processing/recipe
+rastreador_web.receiving.find_xml=rastreador-web/rest/tracking/receiving/findXML
+filePath.xsd_validate_shipping=validate_shipping_v1.xsd
+filePath.xsd_validate_processing=validate_processing_v1.xsd
+
+#error status
+xml_validation_exception_http_status=200
+xml_validation_exception_message=Invalid XML
+
+unsupported_http_method_exception_http_status=405
+unsupported_http_method_exception_message=Method Not Allowed
+
+unauthorized_exception_http_status=401
+unauthorized_exception_message=Unauthorized
+
+

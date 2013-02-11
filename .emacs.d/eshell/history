@@ -1,0 +1,128 @@
+git status
+git push --tags origin
+git checkout 12865f0398a73a7b0b1e1e29e54324271a412ba8
+git checkout 12865f0398a73a7b0b1e1e29e54324271a412ba8
+git checkout fallback
+git push origin fallback:master
+git push -f origin fallback:master
+cd ..
+cd base-core/
+git checkout 610aa1183737c871085bba63b6ca6f6874ed998c
+git checkout master
+git status
+git push -f origin fallback:master
+cd ..
+cd rastreador/
+git checkout 8af48dc370f172ffaf0ba47d46e313a2f4a271cb
+git checkout fallback
+git push -f origin fallback:master
+cd ..
+cd rastreador-api/
+git checkout 4ddc8c2458aee1b31280b99c1385f8925105e1be
+git reset --hard
+git checkout 4ddc8c2458aee1b31280b99c1385f8925105e1be
+git checkout fallback
+git push -f origin fallback:master
+cd ..
+ls
+git clone $BLIT_REMOTE/rastreamentorequisitos.git
+cd rastreamentorequisitos/
+cd ..
+cd paripassu-framework/
+git checkout fe7ad6c8f1c46e17620682d2f1d15dbf13825683
+git reset --hard
+git checkout fe7ad6c8f1c46e17620682d2f1d15dbf13825683
+git checkout fallback
+git push -f origin fallback:master
+cd ..
+cd qrcode-manager-api/
+git checkout 8f7afc2185865d34afcb709782d19863a85a19c8
+git reset --hard
+git checkout 8f7afc2185865d34afcb709782d19863a85a19c8
+git checkout fallback
+git push -f origin fallback:master
+cd ..
+ls
+cd raiz-rastreador/
+cd base-api/
+git fetch
+git remote
+cd ..
+git remote
+git remote origin
+git fetch
+cd ..
+rm -r raiz-rastreador/
+cd raiz-rastreador/
+git fetch
+cd rastreador/
+git fetch
+git status
+git merge origin
+git merge origin/master
+cd ..
+git status
+git add rastreador/
+git commit -m "correção de bug etiqueta"
+git push origin master
+git remote add $BLIT_REMOTE/raiz-rastreador.git
+git remote add main $BLIT_REMOTE/raiz-rastreador.git
+git push -f master:main/master
+git push -f main master
+cd ..
+cd sakatapainel/
+git branch
+git branch -d vendas-richfaces
+cd ..
+cd ~/git
+mkdir teste
+cd teste/
+git clone $BLIT_REMOTE/raiz-rastreador.git
+cd raiz-rastreador/
+git fetch origin +raiz-rastreador-3_28_4:raiz-rastreador-3_28_4
+git fetch origin +refs/tags/raiz-rastreador-3_28_4:refs/tags/raiz-rastreador-3_28_4
+cd ..
+cd ..
+cd rastreador/
+git status
+git remote
+git fetch origin
+git status
+git merge origin/master
+git reset --hard
+git merge origin/master
+git branch
+git branch -d fallback
+git branch -d rastreador-3_27_15-b1
+git branch -a
+cd ..
+cd raiz-rastreador/rastreador/
+git status
+git merge origin/master
+git tag
+git checkout -b rastreador-3_28_3-b1
+git status
+git add *
+git status
+git commit -m "removidas mudanças que quebraram o build"
+cd ..
+cd ..
+cd paripassuesb/
+git fetch origin
+git status
+git status
+git status
+git status
+git reset --hard
+git status
+git status
+git add *
+git status
+git rm -r paripassuesb/bin/
+git rm -rf paripassuesb/bin/
+git status
+git commit -m "novo keystore"
+cd ..
+cd ..
+cd ..
+cd git/

@@ -1,0 +1,19 @@
+- retirar personId do StepTrace e colocar no Event e no Step
+  2h / leonardo
+- retorno UTF-8 encoding MULE
+  3h / gustavo
+- validação XML em XSD no MULE
+  5h / vinicius
+
+- metodos rest post, get, put no MULE
+  4h / leonardo
+- filtro rastreador web para requisições rest
+  1h / qualquer um
+- https inbound no MULE
+  2h / gustavo
+
+- ajustar formatação xmls de retorno (arredondamento double, tradução
+ tipo produto)
+ 4h / todos
+- atualizar documentação de integração
+  1h30 / qualquer um

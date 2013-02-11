@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for i in `ls c:/cvs`; do
+     echo "add.(\"$i\");"
+done
+   

@@ -1,0 +1,179 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/dalmaso/git/sara-crud-web/" . "sara-crud-web/")
+ ("c:/Users/dalmaso/git/rastreador/" . "rastreador/")
+ ("c:/Users/dalmaso/git/" . "rastreador/")
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/paripassuesb/classes/" . "br/")
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/paripassuesb/" . "classes/")
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/" . "paripassuesb/")
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/" . "bin/")
+ ("c:/Users/dalmaso/programas/Tomcat7-a/" . "logs/")
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/src/main/" . "resources/")
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/src/" . "main/")
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/" . "src/")
+ ("c:/Users/dalmaso/workspaceMule/" . "paripassuesb/")
+ ("c:/Users/dalmaso/programas/" . "cvs2svn-2.4.0/")
+ ("c:/Program Files (x86)/" . "Java/")
+ ("u:/workspaceGCO/" . "qdo-docs/")
+ ("u:/" . "workspaceGCO/")
+ ("c:/Users/" . "dalmaso/")
+ ("c:/" . "Users/")
+ ("u:/workspace/sara-core/" . "kettle/")
+ ("u:/workspace/" . "sara-core/")
+ ("c:/Users/dalmaso/gustavo/" . ".emacs.d/")
+ ("c:/Users/dalmaso/" . "programas/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/dalmaso/git/sara-crud-web/sara-crud-web/"
+ "c:/Users/dalmaso/git/rastreador/rastreador/"
+ "c:/Users/dalmaso/programas/"
+ "c:/Users/dalmaso/programas/Git/"
+ "c:/Users/dalmaso/programas/cvs2svn-2.4.0/"
+ "c:/Users/dalmaso/programas/mule-standalone-3.3.0/bin/"
+ "c:/Users/dalmaso/git/my-euler-problems/euler/src/euler/clojure/"
+ "c:/Users/dalmaso/programas/mule-standalone-3.3.0/logs/"
+ "c:/Users/dalmaso/gustavo/git/rastreador/"
+ "c:/Users/dalmaso/"
+ "c:/Users/dalmaso/Downloads/"
+ "c:/Users/dalmaso/programas/Tomcat7-a/logs/"
+ "c:/Program Files/Java/jdk1.7.0_07/jre/lib/security/"
+ "c:/Users/dalmaso/workspaceMule/paripassuesb/src/main/resources/"
+ "c:/Users/dalmaso/programas/mule-standalone-3.3.0/"
+ "c:/Program Files (x86)/Java/"
+ "u:/workspaceGCO/qdo-docs/"
+ "c:/Users/dalmaso/gustavo/"
+ "c:/kettle/"
+ "c:/"
+ "u:/workspace/sara-core/kettle/"
+ "c:/Users/dalmaso/gustavo/.emacs.d/"
+ "c:/Users/dalmaso/gustavo/logs/"
+ "c:/Users/dalmaso/programas/emacs-24.2/bin/"
+ "c:/Users/dalmaso/programas/emacs-24.2/"
+ "c:/Users/dalmaso/logs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".gitignore"
+ "migrate2git.sh"
+ "prontinho.txt"
+ "mule.bat"
+ "README"
+ "cvs2git-example.options"
+ "cvs2git"
+ "analise-requisitos-rastreador-ervilha.txt"
+ "java.security"
+ "draft-apresentacao-workshop.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/dalmaso/git/" (20752 62449) "treinamento-git/" "sca-services/" "sca-core/" "sca-api/" "sara-web/" "sara-docs/" "sara-crud-web/" "sara-core/" "sara-api/" "sad/" "rodrigo/" "rastreador-web-rodrigo/" "rastreador-web/" "rastreador-core/" "rastreador-api/" "rastreador/" "qrcode-manager-web/" "qrcode-manager-api/" "portal/" "paripassu-framework/" "my-euler-problems/" "mobile_servlet/" "hora-ideal/" "gustavo/" "documentacao/" "checklist_mobile/" "buscarastrohtml/" "buscarastro/" "base-services/" "base-core/" "base-api/" "../" "./")
+
+ ("c:/Users/dalmaso/git/sara-crud-web/sara-crud-web/" (20752 61123) "WebContent/" "src/" "build/" ".settings/" ".project" ".gitignore" ".classpath" "../" "./")
+
+ ("c:/Users/dalmaso/git/sara-crud-web/" (20745 17986) "sara-crud-web/" ".git/" "../" "./")
+
+ ("c:/Users/dalmaso/git/rastreador/rastreador/" (20752 58836) "WebContent/" "testesunitarios/" "testesintegracao/" "src/" "sql_3G_unificacao_elos.sql" "sqlElos.sql" "SQL/" "sara.sql" "rastreador.sql" "estoque.sql" "build.xml" ".settings/" ".project" ".metadata/" ".gitignore" ".classpath" "../" "./")
+
+ ("c:/Users/dalmaso/git/rastreador/.git/" (20752 58854) "refs/" "packed-refs" "objects/" "logs/" "info/" "index" "hooks/" "HEAD" "description" "config" "../" "./")
+
+ ("c:/Users/dalmaso/git/rastreador/" (20751 60530) "rastreador/" ".git/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/" (20747 46924) "visualvm_134/" "Tomcat7-b/" "Tomcat7-a/" "Tomcat 6.0.20/" "SplitFile.jar" "scm-server/" "paripassuesb.zip" "MuleStudio/" "mule-standalone-3.3.0/" "msysgit/" "migrate2git.sh" "leiningen-2.0.0-RC2-standalone.jar" "kettle/" "gitblit-1.2.0/" "Git/" "esb.zip" "emacs-24.2/" "eclipse indigo/" "eclipse/" "dirs.sh" "cvs2svn-tmp/" "cvs2svn-2.4.0/" "clojure-1.4.0/" "AtualizadorPbvnew/" "apache-jmeter-2.7/" "apache-activemq-5.6.0/" "../" "./")
+
+ ("c:/Users/dalmaso/" (20733 34995) "workspaceMule/" "workspaceGit/" "workspaceGCO/" "workspaceBug/" "workspace/" "wishlist.txt" "Videos/" "util.txt" "Ubuntu One/" "The_Art_of_unit_Testing.pdf" "tarefas-projeto.txt" "tags-xml-integration.ods" "ssh/" "SQL - descoberta de cargas e rastreamentos.sql" "SplitFile.properties" "senha123.sql" "SendTo/" "Searches/" "Saved Games/" "sara-varejos-mock.sql" "Recent/" "recebimento.odg" "rastreamento.sql" "rascunho_integracao.txt" "PsiData/" "programas/" "PrinterAppletSigned.jar" "PrinterApplet.jar" "postgres-install-cmd.txt" "Pictures/" "percentual-atendido-pedido-plu.sql" "pdanet.cer" "paripassu_ca.crt" "paripassuESB.zip" "paripassu-integration.odt" "paripassu-integration.doc" "paripassu-integration-document_Comentado.pdf" "paripassu-integration-document.pdf" "paripassu-integration-document.odt" "outros/" "or63371093005231105.scp" "or625015290138305231100.scp" "or206628093005231103.scp" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Modelos/" "Meus documentos/" "Menu Iniciar/" "logs/" "Links/" "kettle/" "itemmenu.sql" "hora_ideal.ods" "gustavo/" "git-marks.dat" "git/" "Favorites/" "draft-integration.txt" "Downloads/" "Documents/" "Documentação rastreador.txt" "documentacao_busca_codigo_pepsico.doc" "documentacao busca codigo agrupador.pdf" "documentacao busca codigo agrupador.doc" "Desktop/" "Dados de aplicativos/" "Cookies/" "Contacts/" "Configurações locais/" "changelog.txt" "bin/" "assinatura email/" "AppData/" "analise-requisitos-rastreador-ervilha.txt" "ambiente_teste.sql" "Ambiente de rede/" "Ambiente de impressão/" "3rd party apis/" ".scm/" ".pentaho/" ".org.eclipse.epp.usagedata.recording.userId" ".netbeans/" ".nbprofiler/" ".m2/" ".lein/" ".keystore" ".kettle/" ".eclipse/" "../" "./")
+
+ ("c:/Users/dalmaso/git/portal/" (20747 49645) "portal/" ".git/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/Git/" (20746 47640) "unins000.exe" "unins000.dat" "ssl/" "share/" "ReleaseNotes.rtf" "prontinho.txt" "libexec/" "lib/" "Git Bash.vbs" "Git Bash.lnk" "etc/" "doc/" "cmd/" "bin/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/cvs2svn-2.4.0/" (20745 849) "www/" "test-data/" "svntest/" "setup.py" "run-tests.py" "README" "PKG-INFO" "MANIFEST.in" "Makefile" "HACKING" "doc/" "dist.sh" "cvs2svn_rcsparse/" "cvs2svn_lib/" "cvs2svn-rastreador/" "cvs2svn-example.options" "cvs2svn" "cvs2hg-example.options" "cvs2git-rastreador-web" "cvs2git-rastreador" "cvs2git-pp" "cvs2git-example.options" "cvs2git" "cvs2bzr-example.options" "cvs2bzr" "COPYING" "contrib/" "COMMITTERS" "CHANGES" "build/" "BUGS" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/bin/" (20578 63064) "mule.bat" "mule" "launcher.conf" "launcher.bat" "launcher" "additional.groovy" "../" "./")
+
+ ("c:/Users/dalmaso/git/my-euler-problems/euler/src/euler/clojure/" (20737 18256) "problem8.clj" "problem7.clj" "problem6.clj" "problem5.clj" "problem4.clj" "problem3.clj" "problem2.clj" "problem1.clj" "primes.clj" "#problem7.clj#" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/logs/" (20735 50145) "README.txt" "mule.log" "mule-app-paripassuesb.log.2013-01-22" "mule-app-paripassuesb.log.2013-01-17" "mule-app-paripassuesb.log.2013-01-04" "mule-app-paripassuesb.log.2013-01-03" "mule-app-paripassuesb.log.2012-12-21" "mule-app-paripassuesb.log.2012-12-20" "mule-app-paripassuesb.log.2012-12-19" "mule-app-paripassuesb.log.2012-12-18" "mule-app-paripassuesb.log.2012-12-17" "mule-app-paripassuesb.log.2012-12-12" "mule-app-paripassuesb.log.2012-12-10" "mule-app-paripassuesb.log.2012-12-07" "mule-app-paripassuesb.log.2012-11-20" "mule-app-paripassuesb.log.2012-11-16" "mule-app-paripassuesb.log.2012-09-28" "mule-app-paripassuesb.log" "mule-app-default.log.2013-01-22" "mule-app-default.log.2013-01-17" "mule-app-default.log.2013-01-04" "mule-app-default.log.2013-01-03" "mule-app-default.log.2012-12-20" "mule-app-default.log.2012-12-19" "mule-app-default.log.2012-12-18" "mule-app-default.log.2012-12-17" "mule-app-default.log.2012-12-12" "mule-app-default.log.2012-12-10" "mule-app-default.log.2012-12-07" "mule-app-default.log.2012-11-20" "mule-app-default.log.2012-11-16" "mule-app-default.log.2012-09-28" "mule-app-default.log" "#mule-app-paripassuesb.log#" "../" "./")
+
+ ("c:/Users/dalmaso/gustavo/git/rastreador/" (20724 18582) ".git/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/paripassuesb/classes/br/" (20677 63109) "com/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/paripassuesb/classes/" (20691 25366) "validate_shipping_v1.xsd" "validate_processing_v1.xsd" "truststore.jks" "paripassu.cer" "keystore.jks" "flow.properties" "br/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/paripassuesb/" (20677 63109) "shipping.xml" "sara_sample.xml" "recipe.xml" "receiving.xml" "product_type.xml" "processing.xml" "package.xml" "mule-deploy.properties" "mule-app.properties" "META-INF/" "lib/" "exception_handler.xml" "elements.xml" "CVS/" "classes/" "authentication.xml" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/apps/" (20709 30552) "paripassuesb-anchor.txt" "paripassuesb/" "default-anchor.txt" "default/" "../" "./")
+
+ ("c:/Users/dalmaso/.eclipse/" (20668 34811) "util.txt" "org.eclipse.equinox.security/" "../" "./")
+
+ ("c:/Users/dalmaso/Downloads/" (20679 12769) "Zebra_7.1.9.exe" "wizmouse_1_6_0_2_setup.exe" "visualvm_134.zip" "UnlimitedJCEPolicyJDK7.zip" "ubuntuone-3.0.2b-windows-installer.exe" "synchronize (2)" "synchronize (1)" "synchronize" "sparxkeystoreservice.exe" "regex-coach.exe" "PrinterDriver200-V5.04.exe" "PrinterApplet.jar" "postgresql-9.1.3-1-windows-x64.exe" "npp.6.1.7.Installer.exe" "mule-standalone-3.3.0.zip" "lightning-1.7-sm+tb-windows.xpi" "LibO_3.5.4_Win_x86_install_multi.msi" "Last.fm-1.5.4.27091.exe" "kse-411-setup.zip" "kse-411-setup/" "jxpiinstall.exe" "jre-7u9-windows-i586.exe" "jquery.mobile-1.2.0.zip" "jquery-mobile-theme-083220-0.zip" "jquery-mobile-theme-083220-0/" "jdk-7u7-windows-x64.exe" "jdk-6u31-windows-i586.exe" "Firefox Setup 15.0.1.exe" "emacs-24.2-bin-i386.zip" "eclipse-jee-juno-win32-x86_64.zip" "eclipse-jee-indigo-SR1-win32.zip" "easetupfull.exe" "dwr.jar" "download" "dopdf-7.exe" "desktop.ini" "comprovante.pdf" "codemirror.zip" "clojure-1.4.0.zip" "Argox_7.3.1_M-1.exe" "Argox_7.1.9.exe" "argox.exe" "apache-tomcat-7.0.29.exe" "apache-tomcat-6.0.20.exe" "apache-jmeter-2.7.zip" ".emacs" "../" "./")
+
+ ("c:/Users/dalmaso/programas/Tomcat7-a/logs/" (20663 15143) "tomcat7-stdout.2012-10-31.log" "tomcat7-stderr.2012-10-31.log" "service-install.log" "localhost_access_log.2012-11-29.txt" "localhost_access_log.2012-11-28.txt" "localhost_access_log.2012-11-27.txt" "localhost_access_log.2012-11-26.txt" "localhost_access_log.2012-11-23.txt" "localhost_access_log.2012-11-21.txt" "localhost_access_log.2012-11-20.txt" "localhost_access_log.2012-11-14.txt" "localhost_access_log.2012-11-13.txt" "localhost_access_log.2012-11-12.txt" "localhost_access_log.2012-11-09.txt" "localhost_access_log.2012-11-08.txt" "localhost_access_log.2012-11-07.txt" "localhost_access_log.2012-11-06.txt" "localhost_access_log.2012-11-05.txt" "localhost_access_log.2012-10-31.txt" "commons-daemon.2012-10-31.log" "../" "./")
+
+ ("c:/Users/dalmaso/programas/Tomcat7-a/" (20625 6582) "wtpwebapps/" "work/" "webapps/" "Uninstall.exe" "tomcat.ico" "temp/" "NOTICE" "logs/" "LICENSE" "lib/" "conf/" "bin/" "backup/" "../" "./")
+
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/src/main/resources/" (20646 27884) "validate_shipping_v1.xsd" "validate_processing_v1.xsd" "truststore.jks" "paripassu.cer" "keystore.jks" "flow.properties" "CVS/" "../" "./")
+
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/src/main/" (20625 4627) "resources/" "java/" "CVS/" "app/" "../" "./")
+
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/src/" (20636 57429) "test/" "main/" "CVS/" "../" "./")
+
+ ("c:/Users/dalmaso/workspaceMule/paripassuesb/" (20636 57429) "src/" "mule-project.xml" "mappings/" "lib/" "flows/" "CVS/" "bin/" ".settings/" ".project" ".classpath" "../" "./")
+
+ ("c:/Users/dalmaso/workspaceMule/" (20636 2468) "reloadableproperty/" "paripassuesb/" "flightdemo/" ".mule/" ".metadata/" "../" "./")
+
+ ("c:/Users/" (20642 10404) "Usuário Padrão/" "Todos os Usuários/" "Public/" "postgres/" "jan/" "gustavo/" "guimaraes/" "desktop.ini" "Default User/" "Default/" "dalmaso/" "All Users/" "administrator/" "../" "./")
+
+ ("c:/Program Files/" (20625 1646) "WinPcap/" "Windows Sidebar/" "Windows Portable Devices/" "Windows Photo Viewer/" "Windows NT/" "Windows Media Player/" "Windows Mail/" "Windows Journal/" "Windows Defender/" "Uninstall Information/" "Softland/" "Reference Assemblies/" "PostgreSQL/" "NVIDIA Corporation/" "MSBuild/" "Microsoft Silverlight/" "Microsoft Security Client/" "Java/" "Internet Explorer/" "DVD Maker/" "desktop.ini" "Common Files/" "Arquivos Comuns/" "7-Zip/" "../" "./")
+
+ ("c:/Program Files/Java/" (20625 1744) "jre7/" "jdk1.7.0_07/" "../" "./")
+
+ ("c:/Program Files/Java/jdk1.7.0_07/" (20625 1875) "THIRDPARTYLICENSEREADME.txt" "THIRDPARTYLICENSEREADME-JAVAFX.txt" "src.zip" "release" "register_zh_CN.html" "register_ja.html" "register.html" "README.html" "LICENSE" "lib/" "jre/" "include/" "db/" "COPYRIGHT" "bin/" "../" "./")
+
+ ("c:/Program Files/Java/jdk1.7.0_07/jre/" (20625 1659) "Welcome.html" "THIRDPARTYLICENSEREADME.txt" "THIRDPARTYLICENSEREADME-JAVAFX.txt" "README.txt" "LICENSE" "lib/" "COPYRIGHT" "bin/" "../" "./")
+
+ ("c:/Program Files/Java/jdk1.7.0_07/jre/lib/" (20625 1675) "zi/" "tzmappings" "sound.properties" "servicetag/" "security/" "rt.jar" "resources.jar" "psfontj2d.properties" "psfont.properties.ja" "plugin.jar" "net.properties" "meta-index" "management-agent.jar" "management/" "logging.properties" "launcher.exe" "jvm.hprof.txt" "jsse.jar" "jfxrt.jar" "jfr.jar" "jce.jar" "javaws.jar" "javafx.properties" "images/" "fonts/" "fontconfig.properties.src" "fontconfig.bfc" "flavormap.properties" "ext/" "deploy.jar" "deploy/" "currency.data" "content-types.properties" "cmm/" "classlist" "charsets.jar" "calendars.properties" "applet/" "amd64/" "alt-rt.jar" "accessibility.properties" "../" "./")
+
+ ("c:/Program Files/Java/jdk1.7.0_07/jre/lib/security/" (20625 1656) "US_export_policy.jar" "trusted.libraries" "local_policy.jar" "javaws.policy" "java.security" "java.policy" "cacerts" "blacklist" "../" "./")
+
+ ("c:/Users/dalmaso/programas/mule-standalone-3.3.0/" (20581 58791) "src/" "README.txt" "logs/" "LICENSE.txt" "lib/" "examples/" "docs/" "conf/" "bin/" "apps/" ".mule/" "../" "./")
+
+ ("c:/Program Files (x86)/Java/" (20572 23100) "jre7/" "jre6/" "jdk1.6.0_31/" "../" "./")
+
+ ("c:/Program Files (x86)/" (20576 46497) "WizMouse/" "Windows Sidebar/" "Windows Portable Devices/" "Windows Photo Viewer/" "Windows NT/" "Windows Media Player/" "Windows Mail/" "Windows Defender/" "VideoLAN/" "VIA/" "Uninstall Information/" "ubuntuone/" "TP-LINK/" "Sun/" "Sparx Systems/" "SAMSUNG/" "Safari/" "Reference Assemblies/" "Psi/" "PostgreSQL/" "NVIDIA Corporation/" "Notepad++/" "Nmap/" "MSXML 4.0/" "MSBuild/" "Mozilla Thunderbird/" "Mozilla Maintenance Service/" "Mozilla Firefox/" "Microsoft.NET/" "Microsoft Silverlight/" "Microsoft Security Client/" "LibreOffice 3.5/" "LibreOffice 3.4/" "Last.fm/" "Java/" "Internet Explorer/" "InstallShield Installation Information/" "GIMP-2.0/" "Forefront TMG Client/" "FileZilla FTP Client/" "fabFORCE/" "Evolus/" "desktop.ini" "DbVisualizer-8.0.6/" "Common Files/" "Apple Software Update/" "Adobe/" "../" "./")
+
+ ("u:/workspaceGCO/qdo-docs/" (20576 42585) "QDO_MAIS-20120910/" "QDO_MAIS-20120702/" "QDO_MAIS-20111223/" "CVS/" ".project" "../" "./")
+
+ ("u:/workspaceGCO/" (20559 13302) "sip-docs/" "sip/" "Servers/" "sca-api/" "sara-api/" "rastreamentorequisitos/" "rastreador-docs/" "rastreador/" "qdo-plus-web/" "qdo-plus-core/" "qdo-plus-api/" "qdo-docs/" "paripassu-framework/" "comunicacao-api/" "cdf-api/" "base-core/" "base-api/" ".metadata/" "../" "./")
+
+ ("c:/kettle/" (20569 46450) "saraJobRunner.bat.~1.4.~" "saraJobRunner.bat" "repository.log" "README.txt" "postgreSQL paripassu write.kdb" "postgreSQL paripassu read.kdb" "Popula data mart.kjb" "Modificar nomes Camel Case.ktr" "meses.xls" "CVS/" "Carga varejo.ktr" "Carga tipo de produto.ktr" "Carga tempo.ktr" "carga situacao.ktr" "carga produto.ktr" "Carga origens.ktr" "Carga Municipio.ktr" "Carga ingrediente.ktr" "Carga fornecedor.ktr" "carga fato entrega varejo.ktr" "Carga fato analise.ktr" "carga fato analise cdf.ktr" "Aplicar Camel Case.ktr" "../" "./")
+
+ ("u:/workspace/" (20559 17318) "sip-novo-comunicacao-nao-comitar/" "sip-head/" "sip-1_8_6-b1/" "sip/" "Servers/" "sca-services/" "sca-core/" "sca-api/" "sca/" "satisfacao-cliente-web/" "satisfacao-cliente-core/" "satisfacao-cliente-api/" "sara-web-head/" "sara-web/" "sara-docs/" "sara-core-head/" "sara-core/" "sara-api-head/" "sara-api-1_0_0-b1/" "sara-api/" "sakatapainel/" "sad/" "RemoteSystemsTempFiles/" "rastreamentorequisitos/" "rastreador_satisfacao_cliente_bugs/" "rastreador_sara_crud/" "rastreador-tag-3_24_4/" "rastreador-tag-3_22_5/" "rastreador-tag-3_22_4/" "rastreador-tag-3_22_0/" "rastreador-tag-3_21_36/" "rastreador-services-envio-simples/" "rastreador-novo-comunicacao-nao-comitar/" "rastreador-HEAD-validacao/" "rastreador-docs/" "rastreador-branch-3_25_7-b1/" "rastreador-branch-3_25_6-b1/" "rastreador-branch-3_24_6-b2/" "rastreador-branch-3_24_5-b1/" "rastreador-branch-3_24_4-b1/" "rastreador-4g/" "rastreador-3_22_9-b2/" "rastreador-3_22_8-b1/" "rastreador-3_22_4-b1/" "rastreador-3_22-13/" "rastreador-3_21_35-b1/" "rastreador-3_21_28-b2/" "rastreador-3_21_28-b1/" "rastreador-3_21_26-b1/" "rastreador-3_21_23-b1/" "rastreador-3_21_10/" "rastreador-20120606/" "rastreador/" "qrcode-redirect-web/" "qrcode-ppae-dev/" "qrcode-manager-web/" "qrcode-manager-api/" "qdo-plus-web/" "qdo-plus-core/" "qdo-plus-api/" "printerapplet/" "portal/" "poc-esb/" "pda_net/" "paripassu-framework-build/" "paripassu-framework/" "paripassu/" "moderador/" "mobile_servlet/" "local/" "fase4/" "ExemplosTestesUnitarios/" "comunicacao-web/" "comunicacao-core/" "comunicacao-api/" "cdf-api/" "cdf/" "CargaCDFDiaria1_3_4/" "CargaCDFDiaria-head/" "CargaCDFDiaria/" "cadernocampo-head/" "buscarastrohtml/" "buscarastro/" "base-services/" "base-core/" "base-api-1_0_1/" "base-api/" "autenticacao/" ".metadata/" "../" "./")
+
+ ("u:/workspace/sara-core/kettle/" (20568 55117) "saraJobRunner.bat.~1.4.~" "saraJobRunner.bat" "repository.log" "README.txt" "postgreSQL paripassu write.kdb" "postgreSQL paripassu read.kdb" "Popula data mart.kjb" "Modificar nomes Camel Case.ktr" "meses.xls" "CVS/" "Carga varejo.ktr" "Carga tipo de produto.ktr" "Carga tempo.ktr" "carga situacao.ktr" "carga produto.ktr" "Carga origens.ktr" "Carga Municipio.ktr" "Carga ingrediente.ktr" "Carga fornecedor.ktr" "carga fato entrega varejo.ktr" "Carga fato analise.ktr" "carga fato analise cdf.ktr" "Aplicar Camel Case.ktr" "../" "./")
+
+ ("u:/workspace/sara-core/bin/" (20568 23719) "rebel.xml" "META-INF/" "br/" "../" "./")
+
+ ("u:/workspace/sara-core/" (20559 17080) "src/" "scripts/" "lib/" "kettle/" "CVS/" "bin/" ".settings/" ".project" ".classpath" "../" "./")
+
+ ("c:/Users/dalmaso/gustavo/.emacs.d/" (20567 28950) "places" "init.el" "elpa/" "backups/" ".smex-items" "../" "./")
+
+ ("c:/Users/dalmaso/gustavo/" (20567 27868) "Rede/" "logs/" "backup db/" ".smex-items" ".recentf" ".ido.last" ".emacs.d/" "../" "./")
+
+ ("c:/Users/dalmaso/gustavo/logs/" (20567 22653) "stdout_20120914.rar" "stdout_20120914.log.bat" "stdout_20120914.log.99" "stdout_20120914.log.98" "stdout_20120914.log.97" "stdout_20120914.log.96" "stdout_20120914.log.95" "stdout_20120914.log.94" "stdout_20120914.log.93" "stdout_20120914.log.92" "stdout_20120914.log.91" "stdout_20120914.log.90" "stdout_20120914.log.9" "stdout_20120914.log.89" "stdout_20120914.log.88" "stdout_20120914.log.87" "stdout_20120914.log.86" "stdout_20120914.log.85" "stdout_20120914.log.84" "stdout_20120914.log.83" "stdout_20120914.log.82" "stdout_20120914.log.81" "stdout_20120914.log.80" "stdout_20120914.log.8" "stdout_20120914.log.79" "stdout_20120914.log.78" "stdout_20120914.log.77" "stdout_20120914.log.76" "stdout_20120914.log.75" "stdout_20120914.log.74" "stdout_20120914.log.73" "stdout_20120914.log.72" "stdout_20120914.log.71" "stdout_20120914.log.70" "stdout_20120914.log.7" "stdout_20120914.log.69" "stdout_20120914.log.68" "stdout_20120914.log.67" "stdout_20120914.log.66" "stdout_20120914.log.65" "stdout_20120914.log.64" "stdout_20120914.log.63" "stdout_20120914.log.62" "stdout_20120914.log.61" "stdout_20120914.log.60" "stdout_20120914.log.6" "stdout_20120914.log.59" "stdout_20120914.log.58" "stdout_20120914.log.57" "stdout_20120914.log.56" "stdout_20120914.log.55" "stdout_20120914.log.54" "stdout_20120914.log.53" "stdout_20120914.log.52" "stdout_20120914.log.51" "stdout_20120914.log.50" "stdout_20120914.log.5" "stdout_20120914.log.49" "stdout_20120914.log.48" "stdout_20120914.log.47" "stdout_20120914.log.46" "stdout_20120914.log.45" "stdout_20120914.log.44" "stdout_20120914.log.43" "stdout_20120914.log.42" "stdout_20120914.log.41" "stdout_20120914.log.40" "stdout_20120914.log.4" "stdout_20120914.log.39" "stdout_20120914.log.38" "stdout_20120914.log.37" "stdout_20120914.log.36" "stdout_20120914.log.35" "stdout_20120914.log.34" "stdout_20120914.log.33" "stdout_20120914.log.32" "stdout_20120914.log.31" "stdout_20120914.log.30" "stdout_20120914.log.3" "stdout_20120914.log.29" "stdout_20120914.log.28" "stdout_20120914.log.27" "stdout_20120914.log.26" "stdout_20120914.log.25" "stdout_20120914.log.24" "stdout_20120914.log.23" "stdout_20120914.log.22" "stdout_20120914.log.21" "stdout_20120914.log.20" "stdout_20120914.log.2" "stdout_20120914.log.19" "stdout_20120914.log.18" "stdout_20120914.log.17" "stdout_20120914.log.16" "stdout_20120914.log.153" "stdout_20120914.log.152" "stdout_20120914.log.151" "stdout_20120914.log.150" "stdout_20120914.log.15" "stdout_20120914.log.149" "stdout_20120914.log.148" "stdout_20120914.log.147" "stdout_20120914.log.146" "stdout_20120914.log.145" "stdout_20120914.log.144" "stdout_20120914.log.143" "stdout_20120914.log.142" "stdout_20120914.log.141" "stdout_20120914.log.140" "stdout_20120914.log.14" "stdout_20120914.log.139" "stdout_20120914.log.138" "stdout_20120914.log.137" "stdout_20120914.log.136" "stdout_20120914.log.135" "stdout_20120914.log.134" "stdout_20120914.log.133" "stdout_20120914.log.132" "stdout_20120914.log.131" "stdout_20120914.log.130" "stdout_20120914.log.13" "stdout_20120914.log.129" "stdout_20120914.log.128" "stdout_20120914.log.127" "stdout_20120914.log.126" "stdout_20120914.log.125" "stdout_20120914.log.124" "stdout_20120914.log.123" "stdout_20120914.log.122" "stdout_20120914.log.121" "stdout_20120914.log.120" "stdout_20120914.log.12" "stdout_20120914.log.119" "stdout_20120914.log.118" "stdout_20120914.log.117" "stdout_20120914.log.116" "stdout_20120914.log.115" "stdout_20120914.log.114" "stdout_20120914.log.113" "stdout_20120914.log.112" "stdout_20120914.log.111" "stdout_20120914.log.110" "stdout_20120914.log.11" "stdout_20120914.log.109" "stdout_20120914.log.108" "stdout_20120914.log.107" "stdout_20120914.log.106" "stdout_20120914.log.105" "stdout_20120914.log.104" "stdout_20120914.log.103" "stdout_20120914.log.102" "stdout_20120914.log.101" "stdout_20120914.log.100" "stdout_20120914.log.10" "stdout_20120914.log.1" "stdout_20120914.log" "buffer.txt" "../" "./")
+
+ ("c:/Users/dalmaso/logs/" (20567 6487) "rastreador-console.log" "../" "./")
+
+ ("c:/Users/dalmaso/programas/emacs-24.2/" (20561 65011) "site-lisp/" "README.W32" "README" "lisp/" "leim/" "info/" "etc/" "COPYING" "BUGS" "bin/" "../" "./")
+
+ ("c:/Users/dalmaso/programas/emacs-24.2/bin/" (20561 64894) "runemacs.exe" "movemail.exe" "libXpm.dll" "hexl.exe" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "ebrowse.exe" "ddeclient.exe" "ctags.exe" "COPYING" "cmdproxy.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,47 @@
+
+;; ----- smex-history -----
+(
+ eshell
+ menu-bar-mode
+ load-theme
+ executable-interpret
+ new-frame
+ ediff-buffers
+ diff
+)
+
+;; ----- smex-data -----
+(
+ (scroll-bar-mode . 1)
+ (tool-bar-mode . 1)
+ (shell . 9)
+ (append-to-file . 1)
+ (package-list-packages . 1)
+ (kill-some-buffers . 1)
+ (eshell . 63)
+ (executable-interpret . 50)
+ (describe-variable . 1)
+ (revert-buffer . 2)
+ (global-auto-revert-mode . 1)
+ (toggle-truncate-lines . 4)
+ (javascript-mode . 1)
+ (format-decode-buffer . 1)
+ (indent-region . 1)
+ (dired . 4)
+ (menu-bar-mode . 4)
+ (zone . 2)
+ (eval-region . 3)
+ (eval-print-last-sexp . 4)
+ (paredit-mode . 6)
+ (nrepl-jack-in . 4)
+ (package-install . 1)
+ (rainbow-delimiters-mode . 5)
+ (clojure-jack-in . 1)
+ (eval-buffer . 1)
+ (replace-regexp . 22)
+ (shell-mode . 1)
+ (diff . 1)
+ (ediff-buffers . 2)
+ (new-frame . 1)
+ (load-theme . 14)
+)

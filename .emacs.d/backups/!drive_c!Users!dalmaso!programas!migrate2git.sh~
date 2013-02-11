@@ -1,0 +1,20 @@
+#!/bin/sh
+
+cvs2gitDir="C:/Users/dalmaso/programas/cvs2svn-2.4.0"
+listVar="cdf"
+#descomente e mude o caminho para apontar o repositorio caso queira
+#migrar todos os modulos do cvs
+#for i in `ls c:/cvs`; do
+for i in $listVar; do
+    rm -r "$cvs2gitDir"/cvs2git-"$i"
+
+    python "$cvs2gitDir"/cvs2git --tmpdir="$cvs2gitDir"/cvs2git-"$i" --blobfile="$cvs2gitDir"/cvs2git-"$i"/git-blob.dat --dumpfile="$cvs2gitDir"/cvs2git-"$i"/git-dump.dat --username=cvs2git --force-branch=".*(-._._.-b.)" --force-tag=".*(-._._.$)" --exclude=".*(\[|rastreador_3_7_4_.).*" --use-external-blob-generator --encoding="utf8" --encoding="latin1" c:/cvs/"$i"
+
+    cd "$cvs2gitDir"/cvs2git-"$i"
+    git init
+    git remote add origin http://192.168.0.10:8100/git/"$i".git
+    git fast-import --export-marks=git-marks.dat < git-blob.dat
+    git fast-import --import-marks=git-marks.dat < git-dump.dat
+    git checkout
+    git push --mirror
+done

@@ -1,0 +1,12 @@
+- Principal: 
+	- war projeto rastreador;
+		- Dependências:
+			- paripassu-framework 1.0.4;
+			- base-api 1.0.1;  
+			- base-core 1.0.2;  
+	
+	
+Outros: 
+	- parcial script rastreador.sql contida no arquivo 'rastreador.sql' do projeto;
+	- verificar para que o seguinte contexto esteja correto no arquivo 'server.xml' do Tomcat:
+		<Context docBase="C:\backup\rastreador\biblioteca" path="/rastreador/biblioteca" reloadable="true"/>

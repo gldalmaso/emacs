@@ -1,0 +1,14 @@
+(03/12/2012 14:52:12) Gustavo Dalmaso: 
+    jarsigner -keystore <CAMINHO_KEYSTORE> -storepass <SENHA_KEYSTORE>
+    PrinterAppletSigned.jar pdanet
+
+(03/12/2012 14:52:14) Gustavo Dalmaso: 
+    keytool -v -list -keystore .keystore
+
+(03/12/2012 14:52:38) Gustavo Dalmaso: 
+    jarsigner -verify -verbose -certs .\PrinterAppletSigned.jar
+
+(03/12/2012 15:00:19) Gustavo Dalmaso: 
+    nao esquecer de excluir a pasta META-INF do PrinterAppletSigned.jar
+    antes de qualquer coisa
+
