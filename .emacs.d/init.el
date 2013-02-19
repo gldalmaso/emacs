@@ -1,3 +1,13 @@
+(defun remove-dos-eol ()
+  "Do not show ^M in files containing mixed UNIX and DOS line endings."
+  (interactive)
+  (setq buffer-display-table (make-display-table))
+  (aset buffer-display-table ?\^M []))
+
+(add-hook 'text-mode-hook 'remove-dos-eol)
+
+(set-buffer-file-coding-system 'unix)
+
 (add-to-list 'load-path "~/.emacs.d/lisp/")
 (require 'package)
 (add-to-list 'package-archives
@@ -8,7 +18,7 @@
   (package-refresh-contents))
 
 ;; Add in your own as you wish:
-(defvar my-packages '(starter-kit zenburn-theme auto-complete clojure-mode nrepl)
+(defvar my-packages '(starter-kit zenburn-theme auto-complete clojure-mode nrepl cygwin-mount)
   "A list of packages to ensure are installed at launch.")
 
 (dolist (p my-packages)
@@ -45,3 +55,14 @@
 (setq line-number-mode t)
 (setq column-number-mode t)
 (global-linum-mode 1)
+
+(setq *win32* (eq system-type 'windows-nt) )
+;; win32 auto configuration, assuming that cygwin is installed at "c:/cygwin"
+(if *win32*
+(progn
+    (setq cygwin-mount-cygwin-bin-directory "c:/cygwin/bin")
+    (require 'setup-cygwin)
+    ;(setenv "HOME" "c:/cygwin/home/someuser") ;; better to set HOME env in GUI
+    ))
+
+(server-start)
